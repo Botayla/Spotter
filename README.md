@@ -40,8 +40,8 @@ final predictions on the held-out validation set.
 ## Setup
 
 ```bash
-git clone <https://github.com/Botayla/Spotter>
-cd <this-repo>
+git clone https://github.com/Botayla/Spotter.git
+cd Spotter
 pip install -r requirements.txt
 ```
 
